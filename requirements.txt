@@ -1,0 +1,6 @@
+langchain
+langchain_community
+langchainhuggingface_hub
+streamlit
+faiss-cpu
+pypdf
